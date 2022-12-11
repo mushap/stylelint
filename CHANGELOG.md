@@ -1,5 +1,9 @@
 # Changelog
 
+## 14.16.1
+
+- Fixed: `value-keyword-case` false positives for mixed case `ignoreFunctions` option ([#6517](https://github.com/stylelint/stylelint/pull/6517)) ([@kimulaco](https://github.com/kimulaco)).
+
 ## 14.16.0
 
 - Added: `media-feature-range-notation` rule ([#6497](https://github.com/stylelint/stylelint/pull/6497)) ([@jeddy3](https://github.com/jeddy3)).
